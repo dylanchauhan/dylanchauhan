@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dylanchauhan/dylanchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1><samp>Dylan Chauhan</samp></h1>
 
-Here are some ideas to get you started:
+<h3><samp>Physics @ UC Berkeley '30</samp></h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/dylan-chauhan/">Linkedin</a>
+  ·
+  <a href="mailto:dylanchauhan11@gmail.com">Gmail</a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=6000&pause=4500&color=8B949E&center=true&vCenter=true&width=850&height=45&lines=Passionate+about+anything+relating+to+AI%2C+space%2C+and+building+cool+things+with+cool+people." alt="Typing SVG" />
+
+</div>
